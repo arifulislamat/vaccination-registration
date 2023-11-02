@@ -11,3 +11,6 @@ data:
   DB_CONNECTION: "mysql"
   SQS_REGION: "ap-southeast-1"
   SQS_PREFIX: "test"
+  AWS_ACCESS_KEY_ID: ""
+  AWS_SECRET_ACCESS_KEY: ""
+  AWS_DEFAULT_REGION: "ap-southeast-1"
